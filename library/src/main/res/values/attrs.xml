@@ -3,6 +3,7 @@
 
     <declare-styleable name="TextViewPlus">
         <attr name="font" format="string"/>
+        
     </declare-styleable>
 
 </resources>
