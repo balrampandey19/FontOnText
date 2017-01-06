@@ -12,7 +12,7 @@ import android.widget.TextView;
  */
 
 public class FotButton extends TextView {
-    private static final String TAG = "FotTextView";
+    private static final String TAG = "FotButton";
 
     public FotButton(Context context) {
         super(context);
