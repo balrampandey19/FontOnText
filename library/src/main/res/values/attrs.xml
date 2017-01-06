@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <declare-styleable name="TextViewPlus">
+    <declare-styleable name="Fot">
         <attr name="font" format="string"/>
-        
+
     </declare-styleable>
 
 </resources>
