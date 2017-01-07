@@ -5,13 +5,14 @@ import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.util.Log;
+import android.widget.EditText;
 import android.widget.TextView;
 
 /**
  * Created by Balram Pandey on 1/6/17.
  */
 
-public class FotEditText  extends TextView {
+public class FotEditText  extends EditText {
     private static final String TAG = "FotTextView";
 
     public FotEditText(Context context) {

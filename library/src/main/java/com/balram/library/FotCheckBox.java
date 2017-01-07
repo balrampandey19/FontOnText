@@ -5,13 +5,14 @@ import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.util.Log;
+import android.widget.CheckBox;
 import android.widget.TextView;
 
 /**
  * Created by Balram Pandey on 1/6/17.
  */
 
-public class FotCheckBox extends TextView {
+public class FotCheckBox extends CheckBox {
     private static final String TAG = "FotCheckBox";
 
     public FotCheckBox(Context context) {
