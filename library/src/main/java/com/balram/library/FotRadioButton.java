@@ -5,13 +5,14 @@ import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.util.Log;
+import android.widget.RadioButton;
 import android.widget.TextView;
 
 /**
  * Created by Balram Pandey on 1/6/17.
  */
 
-public class FotRadioButton extends TextView {
+public class FotRadioButton extends RadioButton {
     private static final String TAG = "FotRadioButton";
 
     public FotRadioButton(Context context) {
