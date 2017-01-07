@@ -7,7 +7,7 @@
 
 <img align="center" src='https://raw.githubusercontent.com/balrampandey19/FontOnText/master/Screen/img.jpeg' width='250' height='400'/>
 
-FontOnText is a libiray to add custom font in andorid easily. by using this libray you can set custom font on Textview, Button, EditText and others android views.
+FontOnText is a libiray to add custom font in android easily. by using this libray you can easily set custom font on Textview, Button, EditText and others android views.
 
 # Usage
 ```
