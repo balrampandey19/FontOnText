@@ -7,8 +7,9 @@
 FontOnText is a libiray to add custom font in andorid easily. by using this libray you can set custom font on Textview, Button, EditText and others android views.
 
 # Usage
-
+```
 Add your custom fonts to assets/.
+```
 
 #### Initilize app loger in App Application class.
 ```
