@@ -23,18 +23,17 @@ Add your custom fonts to assets/.
         
 ```
 
-#### Extend LockActivity in all app activity as base activity.
+#### Add custom font on Buuton
 
 ```
- public class MainActivity extends LockActivity {
- 
-  @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        }
- 
- }
+  <com.balram.library.FotRadioButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:hint="@string/message"
+        app:font="FONT_NAME"/>
 ```
 #### Proguard
 
