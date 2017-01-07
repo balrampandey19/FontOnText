@@ -3,7 +3,6 @@
 
     <declare-styleable name="Fot">
         <attr name="font" format="string"/>
-
     </declare-styleable>
 
 </resources>

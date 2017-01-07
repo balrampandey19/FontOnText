@@ -1,1 +1,1 @@
-include ':app', ':fontext', ':library'
+include ':app', ':library'
