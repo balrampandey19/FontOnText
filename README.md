@@ -4,10 +4,7 @@
 
 <img align="center" src='https://raw.githubusercontent.com/balrampandey19/FontOnText/master/Screen/img.jpeg' width='250' height='400'/>
 
-Using this libray you can set custom font in android easily.you can set custom font of TextView,Editext,Checkbox,Button and others android view font.
-
-
-<img align="center" src='https://raw.githubusercontent.com/balrampandey19/AppLocker/master/Screen/screen.png' width='300' height='550'/>
+FontOnText is a libiray to add custom font in andorid easily. by using this libray you can set custom font on Textview, Button, EditText and others android views.
 
 # Usage
 
