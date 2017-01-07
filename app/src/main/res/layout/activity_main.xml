@@ -28,7 +28,17 @@
         android:gravity="center"
         android:backgroundTint="@color/colorPrimary"
         android:hint="@string/message"
-        app:font="cacophony_loud.ttf"/>m
-    
-    
+        app:font="cacophony_loud.ttf"/>
+    <com.balram.library.FotCheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:backgroundTint="@color/colorPrimary"
+        android:hint="@string/message"
+        app:font="cacophony_loud.ttf"/>
+
+
+
 </LinearLayout>
