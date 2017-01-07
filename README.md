@@ -1,5 +1,6 @@
 # Font-on-Text
-[![Release](https://img.shields.io/github/release/jitpack/FontOnText.svg?label=Jitpack)](https://jitpack.io/#jitpack/android-example)
+[![](https://jitpack.io/v/balrampandey19/FontOnText.svg)](https://jitpack.io/#balrampandey19/FontOnText)
+
 ####Set custom font in android easily. 
 
 <img align="center" src='https://raw.githubusercontent.com/balrampandey19/FontOnText/master/Screen/img.jpeg' width='250' height='400'/>
