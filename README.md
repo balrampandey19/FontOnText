@@ -1,6 +1,6 @@
 # Font on Text
 
-<img align="center" src='https://raw.githubusercontent.com/balrampandey19/FontOnText/master/Screen/img.jpeg' width='300' height='400'/>
+<img align="center" src='https://raw.githubusercontent.com/balrampandey19/FontOnText/master/Screen/img.jpeg' width='250' height='400'/>
 
 AppLocker is a library for protect app with four digit pin.
 
