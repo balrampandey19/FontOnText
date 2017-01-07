@@ -5,6 +5,8 @@
 
 ## Set custom fonts in android easily. 
 
+
+
 <img align="center" src='https://raw.githubusercontent.com/balrampandey19/FontOnText/master/Screen/img.jpeg' width='250' height='400'/>
 
 FontOnText is a library to add custom fonts in android easily. by using this library you can easily set custom font on Textview, Button, EditText and other android views.
