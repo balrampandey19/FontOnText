@@ -59,7 +59,7 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.balrampandey19:FontOnText:{latest version}'
+    compile 'com.github.balrampandey19:FontOnText:0.0.1'
 }
 ```
 
