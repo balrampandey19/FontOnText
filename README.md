@@ -11,9 +11,16 @@ FontOnText is a libiray to add custom font in andorid easily. by using this libr
 Add your custom fonts to assets/.
 ```
 
-#### Initilize app loger in App Application class.
+#### Add custom font on TextView.
 ```
- AppLocker.getInstance().enableAppLock(this);
+   <com.balram.library.FotTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/message"
+        android:textSize="20dp"
+        app:font="FONT_NAME"/>
+        
 ```
 
 #### Extend LockActivity in all app activity as base activity.
