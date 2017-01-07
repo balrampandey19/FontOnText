@@ -1,5 +1,7 @@
 # Font-on-Text
 [![](https://jitpack.io/v/balrampandey19/FontOnText.svg)](https://jitpack.io/#balrampandey19/FontOnText)
+[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
 
 ####Set custom font in android easily. 
 
