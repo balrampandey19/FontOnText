@@ -38,7 +38,7 @@ Add your custom fonts to assets/.
 #### Proguard
 
 ```
- -dontwarn com.balram.locker.**
+ -dontwarn com.balram.library.**
 ```
 
 
