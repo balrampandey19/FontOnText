@@ -5,13 +5,14 @@ import android.content.res.TypedArray;
 import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.util.Log;
+import android.widget.Button;
 import android.widget.TextView;
 
 /**
  * Created by Balram Pandey on 1/6/17.
  */
 
-public class FotButton extends TextView {
+public class FotButton extends Button {
     private static final String TAG = "FotButton";
 
     public FotButton(Context context) {
