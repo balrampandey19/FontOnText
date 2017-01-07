@@ -1,14 +1,10 @@
-# Font on Text
+# Font-on-Text
 
 ####Set custom font in android easily. 
 
 <img align="center" src='https://raw.githubusercontent.com/balrampandey19/FontOnText/master/Screen/img.jpeg' width='250' height='400'/>
 
-AppLocker is a library for protect app with four digit pin.
-
-This library allows you to implement a pin lock mechanism in your app easily.
-
-Once enabled a four-digit passcode needs to be entered any time your mobile app is launched. This way your app is safe even if your smartphone or tablet falls into the wrong hands.
+Using this libray you can set custom font in android easily.you can set custom font of TextView,Editext,Checkbox,Button and others android view font.
 
 
 <img align="center" src='https://raw.githubusercontent.com/balrampandey19/AppLocker/master/Screen/screen.png' width='300' height='550'/>
