@@ -47,16 +47,20 @@ Add your custom fonts to assets/.
 
 # Download
 
-#### The Gradle dependency is available via jCenter. jCenter is the default Maven repository used by Android Studio.
-
-
-```
-dependencies {
-
-compile 'com.balrampandey.locker:1.0.0'
-
+#### Add it to your build.gradle with:
+```gradle
+allprojects {
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
 }
+```
+and:
 
+```gradle
+dependencies {
+    compile 'com.github.jitpack:android-example:{latest version}'
+}
 ```
 
 # License
