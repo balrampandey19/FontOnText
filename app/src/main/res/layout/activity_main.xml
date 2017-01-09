@@ -31,7 +31,7 @@
         android:gravity="center"
         android:backgroundTint="@color/colorPrimary"
         android:hint="@string/message"
-        app:font="cacophony_loud.ttf"/>
+        app:font="@string/Roboto_Black"/>
 
     <View android:background="#50000000"
         android:layout_width = "match_parent"
@@ -47,7 +47,7 @@
         android:layout_marginTop="8dp"
         android:gravity="center"
         android:hint="@string/message"
-        app:font="cacophony_loud.ttf"/>
+        app:font="@string/Roboto_Bold"/>
     <View android:background="#50000000"
         android:layout_width = "match_parent"
         android:layout_marginTop="8dp"
@@ -61,7 +61,7 @@
         android:layout_marginTop="8dp"
         android:gravity="center"
         android:hint="@string/message"
-        app:font="cacophony_loud.ttf"/>
+        app:font="@string/Roboto_MediumItalic"/>
 
     <View android:background="#50000000"
         android:layout_width = "match_parent"
